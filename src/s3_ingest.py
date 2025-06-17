@@ -42,6 +42,6 @@ if __name__ == "__main__":
     cleaned_df = cleaned_df.drop_duplicates()
 
     # Save the cleaned dataframe to a new csv file
-    cleaned_df.to_csv("data/clean/creditcard_clean.csv", index=False)
+    cleaned_df.to_csv("../data/clean/creditcard_clean.csv", index=False)
 
 
