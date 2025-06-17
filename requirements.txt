@@ -1,0 +1,36 @@
+# Core Python libraries
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+python-dotenv
+
+# PyTorch for modeling
+torch
+torchvision
+torchaudio
+
+# MLflow for experiment tracking
+mlflow
+
+# Snowflake connector
+snowflake-connector-python
+snowflake-sqlalchemy
+
+# Databricks / PySpark
+pyspark
+
+
+# Deployment
+flask
+gunicorn
+torchserve
+torch-model-archiver
+
+# Visualization / Monitoring
+matplotlib
+seaborn
+plotly
+
+# Testing
+pytest
